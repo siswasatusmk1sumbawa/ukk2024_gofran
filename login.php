@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>website galeri foto</title>
-    <link rel="stylesheet" type="text/css" 
+    <link rel="stylesheet" type="text/css"
+
     href="asset/css/bootstrap.min.css">
 </head>
 <body>
